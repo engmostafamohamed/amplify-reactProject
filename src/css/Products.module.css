@@ -1,0 +1,25 @@
+.products-table {
+    background-color: #323232;
+    color: #FFF;
+    margin: 10px auto;
+}
+
+.products-table thead tr,
+.products-table tbody tr {
+    padding: 10px 0;
+    display: block;
+}
+
+.products-table thead td,
+.products-table tbody td {
+    min-width: 200px;
+    display: inline-block;
+    text-align: center;
+}
+
+.actions-btn {
+    padding: 5px;
+    margin: 0 5px;
+    border-radius: 4px;
+    cursor: pointer;
+}

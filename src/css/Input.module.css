@@ -1,0 +1,11 @@
+.input-card {
+    margin: 5px 0;
+}
+.input-card label {
+    display: block;
+    color: #FFF;
+}
+.input-card input {
+    padding: 10px;
+    width: 100%;
+}

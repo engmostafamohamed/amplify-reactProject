@@ -1,0 +1,39 @@
+.add-product {
+    background-color: #323232;
+    width: 500px;
+    margin: 50px auto;
+    padding: 10px;
+}
+
+.add-product h2 {
+    color: #FFF;
+}
+
+.add-product form {
+    margin: 10px 0;
+}
+
+.add-product form button {
+    display: block;
+    height: 40px;
+    width: 100%;
+    background-color: #FFF;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.cancel-btn {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cancel-btn i {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFF;
+    cursor: pointer;
+}
